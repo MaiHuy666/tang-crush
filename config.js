@@ -17,5 +17,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều hơn 1 tí 😘😘',
     messDesc: 'Cảm ơn em :3 anh mua kẹo cho nhé 😘',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/maihuy01' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
